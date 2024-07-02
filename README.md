@@ -20,5 +20,5 @@ I'm Olatunde Bamidele, an Artificial Intelligence/ Natural Language processing e
 - Parlez-vous français? Je parle un peu de français! 🇫🇷
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or want to collaborate. Let's build amazing things together! 🌟
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ogabamz)](https://github.com/anuraghazra/github-readme-stats)
+[![Ogabamz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ogabamz)](https://github.com/ogabamz/github-readme-stats)
 
